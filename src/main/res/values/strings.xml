@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Cube26_PaymentPortal</string>
+
+    <string name="api_hit">API hits: %1$s</string>
+
+    <string name="Name">Name</string>
+    <string name="Type">Type</string>
+    <string name="Sort">Sort</string>
+    <string name="back">Back</string>
+    <string name="list_all">List All</string>
+
+
+    <string name="total_gateways">Total Gateways: %1$s</string>
+    <string name="rating">Rating</string>
+    <string name="rating_star">Rating: </string>
+
+    <string name="search_by">Search (by Name, Currency)</string>
+
+    <!--gateway details-->
+    <string name="transaction_fee">Transaction Fee: %1$s</string>
+    <string name="branding">Branding: %1$s</string>
+    <string name="branding_yes">Yes</string>
+    <string name="branding_no">No</string>
+    <string name="supported_currencies">Supported Currencies: %1$s</string>
+    <string name="description">Description</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+    <string name="document">Download file</string>
+
+    <!--Likes Fragment-->
+    <string name="total_likes">Likes: %1$s</string>
+
+    <!--Messages-->
+    <string name="downloading_wait">Wait downloading the file, you can see the downloading in the notifaction bar.</string>
+    <string name="download_complete">File download comleted.</string>
+    <string name="like_added">Like added for the gateway.</string>
+</resources>
